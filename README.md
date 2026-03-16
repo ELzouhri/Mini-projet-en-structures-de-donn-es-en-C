@@ -74,4 +74,3 @@ Fonctions utilisées :
 
 ---
 
-## 📂 Structure du projet
